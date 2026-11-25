@@ -71,8 +71,8 @@ a {
 }
 
 .brand-logo {
-  width: min(280px, 75vw);
-  height: 120px;
+  width: min(320px, 80vw);
+  height: 160px;
   margin: 0 auto 4px;
   overflow: hidden;
 }
@@ -350,7 +350,7 @@ a {
   }
 
   .brand-logo {
-    height: 100px;
+    height: 130px;
   }
 
   .links-section {
